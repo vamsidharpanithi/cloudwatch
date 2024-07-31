@@ -4,7 +4,7 @@ metadata:
   name: fluent-bit-cluster-info
   namespace: amazon-cloudwatch
 data:
-  cluster.name: "peggy-test-4zimpqrp"
+  cluster.name: "peggy-cluster"
   http.server: "On"
   http.port: "2020"
   read.head: "Off"
